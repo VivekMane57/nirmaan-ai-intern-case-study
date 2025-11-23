@@ -66,3 +66,66 @@ For each rubric row:
 
 ```text
 final_score = (0.5 * keyword_score + 0.5 * semantic_score) * length_penalty
+
+Where:
+
+Keyword Score (0–1) → keyword overlap
+
+Semantic Score (0–1) → embedding similarity
+
+Length Penalty (0.4–1) → target word count
+
+Weight → from rubric file
+
+📂 Project Structure
+<img width="784" height="492" alt="image" src="https://github.com/user-attachments/assets/fc6913de-1dcf-4478-bd3f-93b925dc82d5" />
+
+🛠️ Installation
+1️⃣ Clone the repository
+git clone https://github.com/VivekMane57/nirmaan-ai-intern-case-study.git
+cd nirmaan-ai-intern-case-study
+2️⃣ Create & activate virtual environment
+python -m venv venv
+venv\Scripts\activate
+3️⃣ Install dependencies
+pip install -r requirements.txt
+▶️ Running the App
+streamlit run app.py
+🖥️ User Flow
+Open the Streamlit app
+
+Expand “View rubric (from Excel)” to inspect the rubric
+
+Paste a student’s transcript into the text area
+
+Click Score
+
+View:Overall score
+
+Word count
+
+Per-criterion breakdown
+
+Detailed feedback and JSON output
+
+🎯 Purpose
+
+This project demonstrates:
+
+Converting a rubric-based evaluation problem into a reproducible scoring pipeline
+
+Combining classical rule-based checks with modern NLP similarity models
+
+Building a simple but effective evaluation dashboard with Streamlit
+
+Writing clean, modular, and readable code suitable for collaboration
+
+It is designed specifically for the Nirmaan Education AI Intern Case Study.
+
+👤 Author
+
+Vivek Mane
+B.Tech CSE – DY Patil College of Engineering & Technology
+AI/ML • Data Engineering • Full Stack
+
+GitHub: VivekMane57
