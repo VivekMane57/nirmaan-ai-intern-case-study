@@ -77,6 +77,24 @@ Length Penalty (0.4–1) → target word count
 
 Weight → from rubric file
 
+## 📸 Project Screenshots
+
+Here are sample outputs from the Streamlit evaluation tool:
+
+### 🖥️ Application Interface
+<img src="https://github.com/user-attachments/assets/b7ae427d-9a56-49d4-90cd-04a8c2e62ba1" width="800"/>
+
+---
+
+### 📊 Scoring Result (Overall Score + Word Count)
+<img src="https://github.com/user-attachments/assets/8073c39c-a96c-4f1e-8b69-735be394e671" width="800"/>
+
+---
+
+### 📈 Per-Criterion Breakdown & Feedback
+<img src="https://github.com/user-attachments/assets/b6ac432e-7e87-4aa3-9205-2174ad0fad5b" width="800"/>
+
+
 📂 Project Structure
 <img width="784" height="492" alt="image" src="https://github.com/user-attachments/assets/fc6913de-1dcf-4478-bd3f-93b925dc82d5" />
 
@@ -150,6 +168,7 @@ Here are sample outputs from the Streamlit evaluation tool:
 
 
  
+
 
 
 
