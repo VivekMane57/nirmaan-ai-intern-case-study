@@ -130,14 +130,27 @@ B.Tech CSE – DY Patil College of Engineering & Technology
 AI/ML • Data Engineering • Full Stack
 
 GitHub: VivekMane57
+## 📸 Project Screenshots
 
-## Project
-<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/b7ae427d-9a56-49d4-90cd-04a8c2e62baa" />
-<img width="1916" height="1075" alt="image" src="https://github.com/user-attachments/assets/8073c39c-a96c-4f1e-8b69-735be394e67b" />
-<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/b6ac432e-7e87-4aa3-9205-2174ad0fad53" />
+Here are sample outputs from the Streamlit evaluation tool:
+
+### 🖥️ Application Interface
+<img src="https://github.com/user-attachments/assets/b7ae427d-9a56-49d4-90cd-04a8c2e62ba1" width="800"/>
+
+---
+
+### 📊 Scoring Result (Overall Score + Word Count)
+<img src="https://github.com/user-attachments/assets/8073c39c-a96c-4f1e-8b69-735be394e671" width="800"/>
+
+---
+
+### 📈 Per-Criterion Breakdown & Feedback
+<img src="https://github.com/user-attachments/assets/b6ac432e-7e87-4aa3-9205-2174ad0fad5b" width="800"/>
+
 
 
  
+
 
 
 
