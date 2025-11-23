@@ -23,17 +23,20 @@ The UI is developed using **Streamlit** so evaluators can simply paste a transcr
 Here are sample outputs from the Streamlit evaluation tool:
 
 ### 🖥️ Application Interface
-<img src="https://github.com/user-attachments/assets/b7ae427d-9a56-49d4-90cd-04a8c2e62ba1" width="800"/>
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/e3d17c67-94d0-425b-b7dd-71c219d26ece" />
+
 
 ---
 
 ### 📊 Scoring Result (Overall Score + Word Count)
-<img src="https://github.com/user-attachments/assets/8073c39c-a96c-4f1e-8b69-735be394e671" width="800"/>
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/fda80979-88b1-4c24-ad63-789d1049d362" />
+
 
 ---
 
 ### 📈 Per-Criterion Breakdown & Feedback
-<img src="https://github.com/user-attachments/assets/b6ac432e-7e87-4aa3-9205-2174ad0fad5b" width="800"/>
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/9d492fed-e5aa-425f-922c-1df96129482f" />
+
 
 
 ---
@@ -165,6 +168,7 @@ Here are sample outputs from the Streamlit evaluation tool:
 
 
  
+
 
 
 
