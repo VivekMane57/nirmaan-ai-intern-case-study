@@ -1,3 +1,5 @@
+👉 **Live App:** [https://your-streamlit-app-url.streamlit.app/](https://nirmaan-scoring-tool.streamlit.app/)
+
 # 📘 Nirmaan – Spoken Introduction Scoring Tool
 
 An AI-assisted evaluation tool that analyzes a student’s **spoken introduction transcript** and scores it using a **rubric-driven, hybrid NLP scoring system**.  
@@ -168,6 +170,7 @@ Here are sample outputs from the Streamlit evaluation tool:
 
 
  
+
 
 
 
