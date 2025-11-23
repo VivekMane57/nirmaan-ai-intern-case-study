@@ -129,3 +129,13 @@ B.Tech CSE – DY Patil College of Engineering & Technology
 AI/ML • Data Engineering • Full Stack
 
 GitHub: VivekMane57
+
+## Project
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/b7ae427d-9a56-49d4-90cd-04a8c2e62baa" />
+<img width="1916" height="1075" alt="image" src="https://github.com/user-attachments/assets/8073c39c-a96c-4f1e-8b69-735be394e67b" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/b6ac432e-7e87-4aa3-9205-2174ad0fad53" />
+
+
+ 
+
+
