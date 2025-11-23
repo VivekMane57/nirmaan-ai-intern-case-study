@@ -1,4 +1,4 @@
-👉 **Live App:** [https://your-streamlit-app-url.streamlit.app/](https://nirmaan-scoring-tool.streamlit.app/)
+👉 **Live App:** https://nirmaan-scoring-tool.streamlit.app/
 
 # 📘 Nirmaan – Spoken Introduction Scoring Tool
 
@@ -170,6 +170,7 @@ Here are sample outputs from the Streamlit evaluation tool:
 
 
  
+
 
 
 
